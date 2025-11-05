@@ -18,8 +18,7 @@ Showcasing my **projects, skills, and passion** for full-stack development and d
 ## 🔗 Live Demo
 [View My Portfolio](#) _(Add your deployed link here)_
 
-## 📬 Contact
-**Email:** 1410joycemary@gmail.com  
+## 📬 Contact 
 **LinkedIn:** [Joyce Mary](#)
 
 ✨ *“Code with logic, design with heart.”*  
